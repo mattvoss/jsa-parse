@@ -9,6 +9,7 @@
         "request": "latest",
         "cheerio": "latest",
         "commander": "latest",
-        "csv": "latest"
+        "csv": "latest",
+        "async": "latest"
     }
 }
