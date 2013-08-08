@@ -1,0 +1,14 @@
+{
+    "name": "psaParse",
+    "description": "App to parse for authenicity numbers",
+    "version": "0.0.1",
+    "author": "Matt Voss",
+    "keywords": [ ],
+    "dependencies": {
+        "querystring": "latest",
+        "request": "latest",
+        "cheerio": "latest",
+        "commander": "latest",
+        "csv": "latest"
+    }
+}
